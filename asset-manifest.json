@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Loginpage-With-Validation-Using-ReactJS/static/css/main.cc243ce7.chunk.css",
+    "main.js": "/Loginpage-With-Validation-Using-ReactJS/static/js/main.2ede3236.chunk.js",
+    "main.js.map": "/Loginpage-With-Validation-Using-ReactJS/static/js/main.2ede3236.chunk.js.map",
+    "runtime-main.js": "/Loginpage-With-Validation-Using-ReactJS/static/js/runtime-main.90d2730a.js",
+    "runtime-main.js.map": "/Loginpage-With-Validation-Using-ReactJS/static/js/runtime-main.90d2730a.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/Loginpage-With-Validation-Using-ReactJS/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.e3ed60fc.chunk.js": "/Loginpage-With-Validation-Using-ReactJS/static/js/2.e3ed60fc.chunk.js",
+    "static/js/2.e3ed60fc.chunk.js.map": "/Loginpage-With-Validation-Using-ReactJS/static/js/2.e3ed60fc.chunk.js.map",
+    "index.html": "/Loginpage-With-Validation-Using-ReactJS/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/Loginpage-With-Validation-Using-ReactJS/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.cc243ce7.chunk.css.map": "/Loginpage-With-Validation-Using-ReactJS/static/css/main.cc243ce7.chunk.css.map",
+    "static/js/2.e3ed60fc.chunk.js.LICENSE.txt": "/Loginpage-With-Validation-Using-ReactJS/static/js/2.e3ed60fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d2730a.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.e3ed60fc.chunk.js",
+    "static/css/main.cc243ce7.chunk.css",
+    "static/js/main.2ede3236.chunk.js"
+  ]
+}

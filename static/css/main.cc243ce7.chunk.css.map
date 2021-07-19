@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACI,SACJ,CAEA,KACI,SAAU,CACV,WACJ","file":"main.cc243ce7.chunk.css","sourcesContent":[".error {\r\n    color: red;\r\n}\r\n\r\nform {\r\n    width: 50%;\r\n    margin: auto;\r\n}"]}
